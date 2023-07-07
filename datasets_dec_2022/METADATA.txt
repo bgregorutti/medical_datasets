@@ -1,0 +1,8 @@
+1/ dataset_1_covid-hospit-2022-12-09-19h02.csv provient de ...
+
+2/ dataset_2_sp-dep-jour-2022-12-09-19h02.csv provient de https://www.data.gouv.fr/fr/datasets/donnees-de-laboratoires-pour-le-depistage-a-compter-du-18-05-2022-si-dep/
+
+voir aussi https://static.data.gouv.fr/resources/donnees-de-laboratoires-pour-le-depistage-a-compter-du-18-05-2022-si-dep/20220512-153419/2022-05-12-sidep-evol-open-data.pdf
+
+3/ dataset_3_covid-19-resultats-par-age-issus-des-appariements-entre-si-vic-si-dep-et-vac-si.csv provient de https://data.drees.solidarites-sante.gouv.fr/explore/dataset/covid-19-resultats-par-age-issus-des-appariements-entre-si-vic-si-dep-et-vac-si/information/
+
